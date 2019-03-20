@@ -1,5 +1,5 @@
 # The NIST Cyber Security Library
-This repository is a collection of (primarily technical) cyber security resources useful for cyber security, structured by the five stages of the [NIST Cyber Security framework](https://www.nist.gov/cyberframework).
+This repository is a collection of (primarily technical) cyber security resources such as articles, white papers, and presentations. It is structured by the five stages of the [NIST Cyber Security framework](https://www.nist.gov/cyberframework): Identify, Protect, Detect, Respond, Recover.
 
 ![NIST Cyber Security Framework Overview](https://i.imgur.com/VSLgKPZ.png)
 ## Identify
