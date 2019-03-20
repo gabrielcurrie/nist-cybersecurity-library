@@ -1,4 +1,6 @@
 # The NIST Cyber Security Library
+This repository is a collection of (primarily technical) cyber security resources useful for improving cyber security in 
+![NIST Cyber Security Framework Overview](https://i.imgur.com/VSLgKPZ.png)
 ## Identify
 ## Protect
 * Hardening Windows: https://github.com/PaulSec/awesome-windows-domain-hardening
