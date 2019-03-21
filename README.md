@@ -6,6 +6,7 @@ This repository is a collection of (primarily technical) cyber security resource
 ## Protect
 * Strategies to mitigate cyber security incidents: https://acsc.gov.au/infosec/mitigationstrategies.htm
 * Hardening Windows: https://github.com/PaulSec/awesome-windows-domain-hardening
+* Improving Active Directory security using the "red forest" model: https://www.mwrinfosecurity.com/our-thinking/planting-the-red-forest-improving-ad-on-the-road-to-esae/
 * Mitigating risks from End of Life software: https://www.ncsc.gov.uk/guidance/obsolete-platforms-security-guidance
 * Securely architecting from managed service providers: https://www.us-cert.gov/ncas/alerts/TA18-276B
 * Defending against Emotet: https://www.us-cert.gov/ncas/alerts/TA18-201A
