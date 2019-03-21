@@ -4,6 +4,7 @@ This repository is a collection of (primarily technical) cyber security resource
 ![NIST Cyber Security Framework Overview](https://i.imgur.com/VSLgKPZ.png)
 ## Identify
 ## Protect
+* Strategies to mitigate cyber security incidents: https://acsc.gov.au/infosec/mitigationstrategies.htm
 * Hardening Windows: https://github.com/PaulSec/awesome-windows-domain-hardening
 * Mitigating risks from End of Life software: https://www.ncsc.gov.uk/guidance/obsolete-platforms-security-guidance
 ## Detect
