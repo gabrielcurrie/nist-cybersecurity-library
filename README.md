@@ -10,6 +10,7 @@ This repository is a collection of (primarily technical) cyber security resource
 * Mitigating risks from End of Life software: https://www.ncsc.gov.uk/guidance/obsolete-platforms-security-guidance
 * Securely architecting from managed service providers: https://www.us-cert.gov/ncas/alerts/TA18-276B
 * Defending against Emotet: https://www.us-cert.gov/ncas/alerts/TA18-201A
+* Protecting against Phishing attacks: https://www.ncsc.gov.uk/guidance/phishing
 ## Detect
 * NCSC security monitoring guidance: https://www.ncsc.gov.uk/guidance/introduction-logging-security-purposes
 * NSA Windows event monitoring guidance: https://github.com/nsacyber/Event-Forwarding-Guidance/tree/master/Events
@@ -19,4 +20,5 @@ This repository is a collection of (primarily technical) cyber security resource
 ## Respond
 * Awesome Incident Response: https://github.com/meirwah/awesome-incident-response
 * Remediating Targeted Intrusions: https://media.blackhat.com/bh-us-12/Briefings/Aldridge/BH_US_12_Aldridge_Targeted_Intrustion_WP.pdf
+* Responding to a compromised Office 365 email account: https://docs.microsoft.com/en-us/office365/securitycompliance/responding-to-a-compromised-email-account
 ## Recover
