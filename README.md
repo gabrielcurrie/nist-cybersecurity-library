@@ -21,5 +21,8 @@ This repository is a collection of (primarily technical) cyber security resource
 ## Respond
 * Awesome Incident Response: https://github.com/meirwah/awesome-incident-response
 * Remediating Targeted Intrusions: https://media.blackhat.com/bh-us-12/Briefings/Aldridge/BH_US_12_Aldridge_Targeted_Intrustion_WP.pdf
+### Responding to cloud service provider incidents
 * Responding to a compromised Office 365 email account: https://docs.microsoft.com/en-us/office365/securitycompliance/responding-to-a-compromised-email-account
+* Responding to a compromised G Suite account: https://support.google.com/a/answer/2984349?hl=en
+* Responding to a compromised AWS account: https://aws.amazon.com/premiumsupport/knowledge-center/potential-account-compromise/
 ## Recover
