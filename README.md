@@ -11,6 +11,7 @@ This repository is a collection of (primarily technical) cyber security resource
 * Protecting against Phishing attacks: https://www.ncsc.gov.uk/guidance/phishing
 ### Securing Windows environments
 * Hardening Windows: https://github.com/PaulSec/awesome-windows-domain-hardening
+* Best practices for securing Active Directory: https://docs.microsoft.com/en-gb/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory
 * Improving Active Directory security using the "red forest" model: https://www.mwrinfosecurity.com/our-thinking/planting-the-red-forest-improving-ad-on-the-road-to-esae/
 ## Detect
 * NCSC security monitoring guidance: https://www.ncsc.gov.uk/guidance/introduction-logging-security-purposes
