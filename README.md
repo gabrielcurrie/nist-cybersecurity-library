@@ -14,11 +14,13 @@ This repository is a collection of (primarily technical) cyber security resource
 * Best practices for securing Active Directory: https://docs.microsoft.com/en-gb/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory
 * Improving Active Directory security using the "red forest" model: https://www.mwrinfosecurity.com/our-thinking/planting-the-red-forest-improving-ad-on-the-road-to-esae/
 ## Detect
+* Detecting attackers exploiting trusted connections from managed service providers: https://www.us-cert.gov/ncas/alerts/TA18-276B
+### Logging and monitoring
 * NCSC security monitoring guidance: https://www.ncsc.gov.uk/guidance/introduction-logging-security-purposes
+* Windows event logging technical guidance: https://acsc.gov.au/publications/protect/Windows_Event_Logging_Technical_Guidance.pdf
 * NSA Windows event monitoring guidance: https://github.com/nsacyber/Event-Forwarding-Guidance/tree/master/Events
 * Enabling PowerShell logging: https://www.fireeye.com/blog/threat-research/2016/02/greater_visibilityt.html
 * Detecting Kerberoasting via Windows Event Monitoring: https://www.trustedsec.com/2018/05/art_of_kerberoast/
-* Detecting attackers exploiting trusted connections from managed service providers: https://www.us-cert.gov/ncas/alerts/TA18-276B
 ## Respond
 * Awesome Incident Response: https://github.com/meirwah/awesome-incident-response
 * Remediating Targeted Intrusions: https://media.blackhat.com/bh-us-12/Briefings/Aldridge/BH_US_12_Aldridge_Targeted_Intrustion_WP.pdf
