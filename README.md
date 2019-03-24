@@ -19,6 +19,7 @@ This repository is a collection of (primarily technical) cyber security resource
 ### Logging and monitoring
 * NCSC security monitoring guidance: https://www.ncsc.gov.uk/guidance/introduction-logging-security-purposes
 * Windows event logging technical guidance: https://acsc.gov.au/publications/protect/Windows_Event_Logging_Technical_Guidance.pdf
+* Detecting lateral movement in Windows: https://www.first.org/resources/papers/conf2016/FIRST-2016-105.pdf
 * NSA Windows event monitoring guidance: https://github.com/nsacyber/Event-Forwarding-Guidance/tree/master/Events
 * Enabling PowerShell logging: https://www.fireeye.com/blog/threat-research/2016/02/greater_visibilityt.html
 * Detecting Kerberoasting via Windows Event Monitoring: https://www.trustedsec.com/2018/05/art_of_kerberoast/
