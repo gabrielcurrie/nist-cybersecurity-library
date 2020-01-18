@@ -9,6 +9,7 @@ This repository is a collection of (primarily technical) cyber security resource
 * Securely architecting from managed service providers: https://www.us-cert.gov/ncas/alerts/TA18-276B
 * Defending against Emotet: https://www.us-cert.gov/ncas/alerts/TA18-201A
 * Protecting against Phishing attacks: https://www.ncsc.gov.uk/guidance/phishing
+* File types to block at the email gateway: https://support.office.com/en-gb/article/blocked-attachments-in-outlook-434752e1-02d3-4e90-9124-8b81e49a8519#ID0EAABAAA=Newer_versions
 ### Securing Windows environments
 * Hardening Windows: https://github.com/PaulSec/awesome-windows-domain-hardening
 * Best practices for securing Active Directory: https://docs.microsoft.com/en-gb/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory
