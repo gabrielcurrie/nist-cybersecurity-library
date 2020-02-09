@@ -16,6 +16,8 @@ This repository is a collection of (primarily technical) cyber security resource
 * Improving Active Directory security using the "red forest" model: https://www.mwrinfosecurity.com/our-thinking/planting-the-red-forest-improving-ad-on-the-road-to-esae/
 * Securing privileged accounts in Active Directory: https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access
 * Recommended applications for application blacklisting: https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules
+* Securing the use of Microsoft Office macros: https://www.cyber.gov.au/publications/microsoft-office-macro-security
+* Securing the use of PowerShell: https://www.cyber.gov.au/publications/securing-powershell-in-the-enterprise
 ## Detect
 * Detecting attackers exploiting trusted connections from managed service providers: https://www.us-cert.gov/ncas/alerts/TA18-276B
 ### Logging and monitoring
