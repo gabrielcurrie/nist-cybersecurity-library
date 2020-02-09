@@ -26,7 +26,7 @@ This repository is a collection of (primarily technical) cyber security resource
 * Detecting lateral movement in Windows: https://www.first.org/resources/papers/conf2016/FIRST-2016-105.pdf
 * NSA Windows event monitoring guidance: https://github.com/nsacyber/Event-Forwarding-Guidance/tree/master/Events
 * Enabling PowerShell logging: https://www.fireeye.com/blog/threat-research/2016/02/greater_visibilityt.html
-* Detecting Kerberoasting via Windows Event Monitoring: https://www.trustedsec.com/2018/05/art_of_kerberoast/
+* Detecting Kerberoasting via Windows Event Monitoring: https://www.trustedsec.com/blog/art_of_kerberoast/
 ## Respond
 * Awesome Incident Response: https://github.com/meirwah/awesome-incident-response
 * Remediating Targeted Intrusions: https://media.blackhat.com/bh-us-12/Briefings/Aldridge/BH_US_12_Aldridge_Targeted_Intrustion_WP.pdf
