@@ -31,6 +31,7 @@ This repository is a collection of (primarily technical) cyber security resource
 * Awesome Incident Response: https://github.com/meirwah/awesome-incident-response
 * Remediating Targeted Intrusions: https://media.blackhat.com/bh-us-12/Briefings/Aldridge/BH_US_12_Aldridge_Targeted_Intrustion_WP.pdf
 * Incident Response Training Course: https://response.pagerduty.com/training/courses/incident_response/
+* Investigating PowerShell attacks: https://www.fireeye.com/content/dam/fireeye-www/global/en/solutions/pdfs/wp-lazanciyan-investigating-powershell-attacks.pdf
 ### Responding to cloud service provider incidents
 * Responding to a compromised Office 365 email account: https://docs.microsoft.com/en-us/office365/securitycompliance/responding-to-a-compromised-email-account
 * Responding to a compromised G Suite account: https://support.google.com/a/answer/2984349?hl=en
