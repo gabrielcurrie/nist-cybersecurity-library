@@ -27,6 +27,7 @@ This repository is a collection of (primarily technical) cyber security resource
 * NSA Windows event monitoring guidance: https://github.com/nsacyber/Event-Forwarding-Guidance/tree/master/Events
 * Enabling PowerShell logging: https://www.fireeye.com/blog/threat-research/2016/02/greater_visibilityt.html
 * Detecting Kerberoasting via Windows Event Monitoring: https://www.trustedsec.com/blog/art_of_kerberoast/
+* Detecting malware using Microsoft Sysinternals: https://channel9.msdn.com/events/teched/northamerica/2013/atc-b308#fbid=mb6_bvqq9jj
 ## Respond
 * Awesome Incident Response: https://github.com/meirwah/awesome-incident-response
 * Remediating Targeted Intrusions: https://media.blackhat.com/bh-us-12/Briefings/Aldridge/BH_US_12_Aldridge_Targeted_Intrustion_WP.pdf
