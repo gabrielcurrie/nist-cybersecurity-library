@@ -13,7 +13,7 @@ This repository is a collection of (primarily technical) cyber security resource
 ### Securing Windows environments
 * Hardening Windows: https://github.com/PaulSec/awesome-windows-domain-hardening
 * Best practices for securing Active Directory: https://docs.microsoft.com/en-gb/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory
-* Improving Active Directory security using the "red forest" model: https://www.mwrinfosecurity.com/our-thinking/planting-the-red-forest-improving-ad-on-the-road-to-esae/
+* Improving Active Directory security using the "red forest" model: https://www.f-secure.com/en/consulting/our-thinking/planting-the-red-forest-improving-ad-on-the-road-to-esae
 * Securing privileged accounts in Active Directory: https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access
 * Recommended applications for application blacklisting: https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules
 * Securing the use of Microsoft Office macros: https://www.cyber.gov.au/publications/microsoft-office-macro-security
@@ -22,7 +22,7 @@ This repository is a collection of (primarily technical) cyber security resource
 * Detecting attackers exploiting trusted connections from managed service providers: https://www.us-cert.gov/ncas/alerts/TA18-276B
 ### Logging and monitoring
 * NCSC security monitoring guidance: https://www.ncsc.gov.uk/guidance/introduction-logging-security-purposes
-* Windows event logging technical guidance: https://acsc.gov.au/publications/protect/Windows_Event_Logging_Technical_Guidance.pdf
+* Windows event logging technical guidance: https://www.cyber.gov.au/sites/default/files/2019-03/Windows_Event_Logging_Technical_Guidance.pdf
 * Detecting lateral movement in Windows: https://www.first.org/resources/papers/conf2016/FIRST-2016-105.pdf
 * NSA Windows event monitoring guidance: https://github.com/nsacyber/Event-Forwarding-Guidance/tree/master/Events
 * Enabling PowerShell logging: https://www.fireeye.com/blog/threat-research/2016/02/greater_visibilityt.html
