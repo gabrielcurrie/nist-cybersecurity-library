@@ -5,7 +5,7 @@ This repository is a collection of (primarily technical) cyber security resource
 ## Identify
 ## Protect
 * Strategies to mitigate cyber security incidents: https://www.cyber.gov.au/acsc/view-all-content/publications/strategies-mitigate-cyber-security-incidents
-* Mitigating risks from End of Life software: https://www.ncsc.gov.uk/guidance/obsolete-platforms-security-guidance
+* Mitigating risks from End of Life software: https://www.ncsc.gov.uk/collection/mobile-device-guidance/managing-the-risks-from-obsolete-products
 * Securely architecting from managed service providers: https://us-cert.cisa.gov/ncas/alerts/TA18-276B
 * Defending against Emotet: https://us-cert.cisa.gov/ncas/alerts/TA18-201A
 * Protecting against Phishing attacks: https://www.ncsc.gov.uk/guidance/phishing
