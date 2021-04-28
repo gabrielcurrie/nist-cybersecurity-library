@@ -38,3 +38,6 @@ This repository is a collection of (primarily technical) cyber security resource
 * Responding to a compromised G Suite account: https://support.google.com/a/answer/2984349?hl=en
 * Responding to a compromised AWS account: https://aws.amazon.com/premiumsupport/knowledge-center/potential-account-compromise/
 ## Recover
+### Recovering from a Active Directory compromise
+* Advice for incident responders on recovery from systemic identity compromises: https://www.microsoft.com/security/blog/2020/12/21/advice-for-incident-responders-on-recovery-from-systemic-identity-compromises/
+* Practical Compromise Recovery Guidance For Active Directory: https://m365internals.com/2021/04/27/practical-compromise-recovery-guidance-for-active-directory/
